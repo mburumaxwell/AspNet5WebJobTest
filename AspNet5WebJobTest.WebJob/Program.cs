@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace AspNet5WebJobTest.WebJob {
     public class Program {
         public void Main(string[] args) {
-            var host = new JobHost(new JobHostConfiguration("ConnectionStringHere"));
+            var host = new JobHost(new JobHostConfiguration("PutAValidConnectionStringHere"));
             host.RunAndBlock();
         }
     }
