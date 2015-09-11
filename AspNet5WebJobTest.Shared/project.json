@@ -1,0 +1,12 @@
+﻿{
+  "version": "1.0.0-*",
+  "description": "AspNet5WebJobTest.Shared Class Library",
+  "authors": [ "Maxwell" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+
+  "frameworks": {
+    "dnx451": { }
+  }
+}
