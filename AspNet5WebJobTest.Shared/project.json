@@ -7,7 +7,7 @@
   "licenseUrl": "",
 
   "dependencies": {
-    "WindowsAzure.Storage": "5.0.1-preview"
+    "Microsoft.Azure.WebJobs": "1.0.1"
   },
 
   "frameworks": {

@@ -7,8 +7,7 @@
   "licenseUrl": "",
 
   "dependencies": {
-    "AspNet5WebJobTest.Shared": "1.0.0-*",
-    "Microsoft.Azure.WebJobs": "1.0.1"
+    "AspNet5WebJobTest.Shared": "1.0.0-*"
   },
 
   "commands": {
